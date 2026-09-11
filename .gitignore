@@ -38,3 +38,6 @@ Thumbs.db
 *.h5
 *.pt
 *.pth
+# SEA MERCHANTS ML artifacts
+!ai-ml/models/best_freight_rate_model.joblib
+!data/SEA_MERCHANTS_Cleaned_ML_Results.xlsx
